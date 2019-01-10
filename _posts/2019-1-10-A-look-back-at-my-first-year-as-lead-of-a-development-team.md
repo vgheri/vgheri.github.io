@@ -1,3 +1,8 @@
+---
+layout: post
+title: A look back at my first year as lead of a development team
+---
+
 **Heads-up**  
 This post originally appeared in my [employer's official blog](https://medium.com/@vptech/my-first-9-months-as-lead-of-a-development-team-at-vente-privee-3442bb9946c2)
 
